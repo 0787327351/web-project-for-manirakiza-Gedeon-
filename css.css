@@ -1,0 +1,281 @@
+.active{
+	background-color:green;
+}
+
+.header{
+  background-color: chocolate;
+  text-align: center;
+  padding: 20px;
+}
+.header1{
+	border-radius:100%;
+}
+body{
+  background-color: gray;
+}
+.navbar{
+  background-color: orange;
+}
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 600px;
+}
+.navbar ul li{
+  display: inline-block;
+  height:1px;
+}
+#link3{
+  position: absolute;
+  right: 2px;
+}
+
+.navbar li a {
+  display: inline-block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+
+.navbar li a:hover {
+  background-color: #555;
+  color: white;
+}
+.verticalbar{
+  background-color: green;
+  display: block;
+  position: absolute;
+  left: 1px;
+  width: 200px;
+  height: 552px;
+  border:solid;
+}
+.verticalbar ul{
+  list-style-type: none;
+  display: block;
+}
+.verticalbar ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.content2 {
+  position: absolute;
+  left: 200px;
+  background-color: #AAE3E2;
+  border: 11px solid #AAE3E2;
+  width: 890px;
+  height: 530px;
+}
+.content2 img{
+  
+  width: 400px;
+  height: 100px;
+  float: left;
+  left: 2px;
+}
+.content2 h1{
+  float: left;
+
+}
+.content22{
+  background-color: #AAE3E2;
+  position: absolute;
+  top: 380px;
+  left: 200px;
+  width: 700px;
+}
+.content22 h1{
+  text-align: center;
+  color: #A84448;
+}
+.about{
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+.list{
+  background-color: #AAE3E2;
+  position: absolute;
+  top: 525px;
+  left: 200px;
+  width: 940px;
+  height: 162px;
+}
+.ullist{
+  background-color: #7DB9B6;
+  margin-left: 2px;
+  width: 49%;
+  position: absolute;
+  top: 5px;
+}
+.ullist ul{
+  list-style-type: upper-alpha;
+}
+.ollist{
+  background-color: #183A1D;
+  margin-right: 2px;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 49%;
+}
+.ollist ol{
+  list-style-type: upper-roman;
+}
+
+
+
+.content3{
+  display: block;
+  position: absolute;
+  left: : 1px;
+  height: 150px;
+}
+
+.content3 img{
+  display: block;
+  width: 87px;
+  height: 90px;
+  padding: 4px;
+}
+
+.content12{
+  display: block;
+  position: absolute;
+  right: 1px;
+  height: 150px;
+  border:solid;
+ 
+}
+
+.content12 img{
+  display: block;
+  width: 210px;
+  height: 150px;
+  padding: 4px;
+  border:solid;
+}
+
+.video{
+	float: left;
+	width: 430px;
+  height: 300px;
+  left:500px;
+  top: 150px;
+  border:dashed;
+  background-color:blue;
+}
+
+.one{
+	display: block;
+  position: absolute;
+  right: 2px;
+  height: 300px;
+  top: 235px;
+  width: 430px;
+  border:dashed;
+  background-color:green;
+}
+.container{
+	background-color:pink;
+	border:solid;
+	
+}
+.footer {
+  background-color: yellow;
+  text-align: center;
+  padding: 10px;
+
+  color: green;
+  margin-left: 2px;
+  margin-right: 10px;
+  position: absolute;
+  top: 790px;
+  width: 1299px;
+  border:dashed;
+}
+#body2{
+	
+	background-color:blue;
+}
+
+.diseases{
+	width:700px;
+	height:200px;
+	background-color:pink;
+	color:blue;
+	border:solid;
+	overflow:scroll;
+	top:200px;
+	margin:20px;
+	
+}
+.disphoto img{
+	display: block;
+  width: 500px;
+  height: 160px;
+  padding: 4px;
+  border:solid;
+  background-color:purple;
+}
+.disphoto{
+  display: block;
+  position: absolute;
+  right: 50px;
+  height: 150px;
+  width: 500px;
+  top:180px;
+  border:solid;
+  background-color:purple;
+}
+.one1{
+	width:700px;
+	height:288px;
+	float:left;
+	border:dashed;
+	top:200px;
+	margin:20px;
+	margin-right:20px;
+}
+#para1{
+	width:1319px;
+	height:200px;
+	background-color:green;
+	color:white;
+	border:solid;
+	overflow:scroll;
+	top:200px;
+	margin-left:2px;
+}
+#address2{
+  display: block;
+  position: absolute;
+  right: 50px;
+  height: 630px;
+  width: 600px;
+  top:162px;
+  border:solid;
+  text-align:center;
+  background-color:pink;
+}
+#address1{
+	
+ float:left;
+  height: 630px;
+  width: 640px;
+ border:solid;
+ text-align:center;
+ background-color:violet;
+}
+.his{
+	width:1325px;
+	height:360px;
+	background-color:green;
+	border:solid;
+	text-align:center;
+}
